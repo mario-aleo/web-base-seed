@@ -1,0 +1,14 @@
+{
+  "name": "baab-poc",
+  "description": "Baab Poc",
+  "main": "index.html",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
