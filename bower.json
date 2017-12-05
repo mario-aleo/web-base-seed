@@ -1,9 +1,9 @@
 {
-  "name": "baab-poc",
-  "description": "Baab Poc",
+  "name": "web-base-seed",
+  "description": "Web Base Seed",
   "main": "index.html",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/mario-aleo/web-base-seed",
   "ignore": [
     "**/.*",
     "node_modules",
